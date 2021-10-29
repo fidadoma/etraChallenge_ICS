@@ -7,8 +7,8 @@ Analysis stub for course Informatics and cognitive science I
 4. After approval, edit Analysis.Rmd file and perform your own analysis
 4. Send me knitted html file
 
-Deadline for hypotheses approval: 30.11.2020
-Deadline fo analysis: 31.12.2020
+Deadline for hypotheses approval: 30.11.2021
+Deadline for analysis: 31.12.2021
 
 # What should be in the report
 
