@@ -7,7 +7,7 @@ Analysis stub for course Informatics and cognitive science I
 4. After approval, edit Analysis.Rmd file and perform your own analysis
 4. Send me knitted html file
 
-Deadline for hypotheses approval: 30.11.2022
+Deadline for hypotheses approval: 11.12.2022
 Deadline for analysis: TBA (one week before the "exam")
 
 # What should be in the report
